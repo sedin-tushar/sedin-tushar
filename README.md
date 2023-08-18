@@ -10,8 +10,6 @@
 - 💬 Ask me about **Ruby-Rails, Cybersecurity, Javascript**
 
 - 📫 How to reach me **tushar@sedintechnologies.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
