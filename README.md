@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Railsfactory](https://railsfactory.com/)
 
-- 🌱 I’m currently learning **Ruby-Rails ,React, Javascript, Go, Cybersecurity**
+- 🌱 I’m currently learning **Ruby-On-Rails ,React, Javascript, Angular, Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sedin-tushar](https://github.com/sedin-tushar)
 
